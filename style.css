@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background: linear-gradient(to right top, #5F224A
+    , #B6087A)
+
+}
+h1{ 
+    padding-top: 22px;;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+h2 {
+    text-align: center;
+    padding-top: 55px
+
+}
+
+
+
+footer{
+    font-size: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
